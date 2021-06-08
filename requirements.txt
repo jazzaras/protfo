@@ -18,7 +18,7 @@ lxml==4.5.1
 mccabe==0.6.1
 nodeenv==1.4.0
 packaging==20.4
-Pillow==7.1.2
+Pillow==8.2.0
 pluggy==0.13.1
 pre-commit==2.5.1
 py==1.8.2
